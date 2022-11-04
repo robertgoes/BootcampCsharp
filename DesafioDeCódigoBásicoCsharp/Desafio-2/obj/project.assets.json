@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\DesafioDeCódigoBásicoCsharp\\DesafioDeCódigoBásicoCsharp.csproj",
-      "projectName": "DesafioDeCódigoBásicoCsharp",
-      "projectPath": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\DesafioDeCódigoBásicoCsharp\\DesafioDeCódigoBásicoCsharp.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\DesafioDeCódigoBásicoCsharp\\Desafio-2\\Desafio-2.csproj",
+      "projectName": "Desafio-2",
+      "projectPath": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\DesafioDeCódigoBásicoCsharp\\Desafio-2\\Desafio-2.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\DesafioDeCódigoBásicoCsharp\\obj\\",
+      "outputPath": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\DesafioDeCódigoBásicoCsharp\\Desafio-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config"

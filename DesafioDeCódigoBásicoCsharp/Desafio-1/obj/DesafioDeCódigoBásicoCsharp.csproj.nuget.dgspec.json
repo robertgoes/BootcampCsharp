@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\DesafioDeCódigoBásicoCsharp\\DesafioDeCódigoBásicoCsharp.csproj": {}
+    "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\DesafioDeCódigoBásicoCsharp\\Desafio-1\\DesafioDeCódigoBásicoCsharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\DesafioDeCódigoBásicoCsharp\\DesafioDeCódigoBásicoCsharp.csproj": {
+    "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\DesafioDeCódigoBásicoCsharp\\Desafio-1\\DesafioDeCódigoBásicoCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\DesafioDeCódigoBásicoCsharp\\DesafioDeCódigoBásicoCsharp.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\DesafioDeCódigoBásicoCsharp\\Desafio-1\\DesafioDeCódigoBásicoCsharp.csproj",
         "projectName": "DesafioDeCódigoBásicoCsharp",
-        "projectPath": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\DesafioDeCódigoBásicoCsharp\\DesafioDeCódigoBásicoCsharp.csproj",
+        "projectPath": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\DesafioDeCódigoBásicoCsharp\\Desafio-1\\DesafioDeCódigoBásicoCsharp.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\DesafioDeCódigoBásicoCsharp\\obj\\",
+        "outputPath": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\DesafioDeCódigoBásicoCsharp\\Desafio-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config"
