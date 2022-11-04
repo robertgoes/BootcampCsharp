@@ -1,25 +1,24 @@
 ﻿using System;
 
-int[] arrayInteiros = new int[3];
+List<string> listaString = new List<string>();
 
-arrayInteiros[0] = 12;
-arrayInteiros[1] = 24;
-arrayInteiros[2] = arrayInteiros[1] * 2;
+listaString.Add("SP");
+listaString.Add("SC");
+listaString.Add("CE");
 
-Console.WriteLine($"Quantidade de posições do ArrayInteiros: {arrayInteiros.Length}");
+Console.WriteLine("Percorrendo a lista com FOR");
 
-for(int contador = 0; contador < arrayInteiros.Length; contador++)
+for(int contador = 0; contador < listaString.Count; contador++)
 {
-    Console.WriteLine($"{arrayInteiros[contador]}");
+    Console.WriteLine($"Posição {contador} - {listaString[contador]}");
 }
 
-int[] arrayInteirosDobrado = new int[arrayInteiros.Length * 2];
+Console.WriteLine("Percorrendo a lista com FOREACH");
 
-Array.Copy(arrayInteiros, arrayInteirosDobrado, arrayInteiros.Length);
+int contadorForeach = 0;
 
-Console.WriteLine($"Quantidade de posições do ArrayInteirosDobrado: {arrayInteirosDobrado.Length}");
-
-for(int contador = 0; contador < arrayInteirosDobrado.Length; contador++)
+foreach(string item in listaString)
 {
-    Console.WriteLine($"{arrayInteirosDobrado[contador]}");
+    Console.WriteLine($"Posição {contadorForeach} - {item}");
+    contadorForeach++;
 }
