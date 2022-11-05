@@ -1,0 +1,15 @@
+C:\Users\rober\Estudo C#\BootcampCsharp\PropriedadesMétodosConstrutores\bin\Debug\net6.0\PropriedadesMétodosConstrutores.exe
+C:\Users\rober\Estudo C#\BootcampCsharp\PropriedadesMétodosConstrutores\bin\Debug\net6.0\PropriedadesMétodosConstrutores.deps.json
+C:\Users\rober\Estudo C#\BootcampCsharp\PropriedadesMétodosConstrutores\bin\Debug\net6.0\PropriedadesMétodosConstrutores.runtimeconfig.json
+C:\Users\rober\Estudo C#\BootcampCsharp\PropriedadesMétodosConstrutores\bin\Debug\net6.0\PropriedadesMétodosConstrutores.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\PropriedadesMétodosConstrutores\bin\Debug\net6.0\PropriedadesMétodosConstrutores.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\PropriedadesMétodosConstrutores\obj\Debug\net6.0\PropriedadesMétodosConstrutores.csproj.AssemblyReference.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\PropriedadesMétodosConstrutores\obj\Debug\net6.0\PropriedadesMétodosConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Estudo C#\BootcampCsharp\PropriedadesMétodosConstrutores\obj\Debug\net6.0\PropriedadesMétodosConstrutores.AssemblyInfoInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\PropriedadesMétodosConstrutores\obj\Debug\net6.0\PropriedadesMétodosConstrutores.AssemblyInfo.cs
+C:\Users\rober\Estudo C#\BootcampCsharp\PropriedadesMétodosConstrutores\obj\Debug\net6.0\PropriedadesMétodosConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\PropriedadesMétodosConstrutores\obj\Debug\net6.0\PropriedadesMétodosConstrutores.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\PropriedadesMétodosConstrutores\obj\Debug\net6.0\refint\PropriedadesMétodosConstrutores.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\PropriedadesMétodosConstrutores\obj\Debug\net6.0\PropriedadesMétodosConstrutores.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\PropriedadesMétodosConstrutores\obj\Debug\net6.0\PropriedadesMétodosConstrutores.genruntimeconfig.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\PropriedadesMétodosConstrutores\obj\Debug\net6.0\ref\PropriedadesMétodosConstrutores.dll
