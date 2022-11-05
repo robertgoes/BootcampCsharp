@@ -1,5 +1,17 @@
-﻿using PropriedadesMétodosConstrutores.Models;
+﻿using System;
+using PropriedadesMétodosConstrutores.Models;
 
-Pessoa teste1 = new Pessoa();
-teste1.Nome = "Robert";
-teste1.Aprensentar();
+Pessoa pessoa1 = new Pessoa();
+pessoa1.Nome = "Robert";
+
+Pessoa pessoa2 = new Pessoa();
+pessoa2.Nome = "Melany";
+
+Curso cursoDeIngles = new Curso();
+cursoDeIngles.Alunos = new List<Pessoa>();
+cursoDeIngles.Nome = "Inglês";
+
+cursoDeIngles.AdicionarAluno(pessoa1);
+cursoDeIngles.AdicionarAluno(pessoa2);
+
+cursoDeIngles.ListarAlunos();
