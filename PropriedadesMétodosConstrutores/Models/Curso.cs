@@ -3,6 +3,13 @@ namespace PropriedadesMétodosConstrutores.Models
 {
     public class Curso
     {
+        public Curso (){}
+
+        public Curso(string nome)
+        {
+            Nome = nome;
+        }
+        
         public string Nome { get; set; }
         public List<Pessoa> Alunos{ get; set; }
 
