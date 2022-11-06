@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ExceçõesColeções\\ExceçõesColeções.csproj": {}
+    "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ExceçõesColeções\\CódigoDeLeituraDeArquivo\\ExceçõesColeções.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ExceçõesColeções\\ExceçõesColeções.csproj": {
+    "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ExceçõesColeções\\CódigoDeLeituraDeArquivo\\ExceçõesColeções.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ExceçõesColeções\\ExceçõesColeções.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ExceçõesColeções\\CódigoDeLeituraDeArquivo\\ExceçõesColeções.csproj",
         "projectName": "ExceçõesColeções",
-        "projectPath": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ExceçõesColeções\\ExceçõesColeções.csproj",
+        "projectPath": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ExceçõesColeções\\CódigoDeLeituraDeArquivo\\ExceçõesColeções.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ExceçõesColeções\\obj\\",
+        "outputPath": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ExceçõesColeções\\CódigoDeLeituraDeArquivo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config"

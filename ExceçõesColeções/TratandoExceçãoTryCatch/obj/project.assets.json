@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ExceçõesColeções\\ExceçõesColeções.csproj",
-      "projectName": "ExceçõesColeções",
-      "projectPath": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ExceçõesColeções\\ExceçõesColeções.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ExceçõesColeções\\TratandoExceçãoTryCatch\\TratandoExceçãoTryCatch.csproj",
+      "projectName": "TratandoExceçãoTryCatch",
+      "projectPath": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ExceçõesColeções\\TratandoExceçãoTryCatch\\TratandoExceçãoTryCatch.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ExceçõesColeções\\obj\\",
+      "outputPath": "C:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ExceçõesColeções\\TratandoExceçãoTryCatch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config"

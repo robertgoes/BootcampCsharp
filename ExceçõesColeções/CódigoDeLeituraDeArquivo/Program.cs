@@ -1,6 +1,6 @@
 ﻿using System;
 
-string[] linhas = File.ReadAllLines("Arquivos/arquivoLeitura.txt");
+string[] linhas = File.ReadAllLines("../Arquivos/arquivoLeitura.txt");
 
 foreach (string linha in linhas)
 {

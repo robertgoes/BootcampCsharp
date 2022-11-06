@@ -1,0 +1,15 @@
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\TratandoExceçãoTryCatch\bin\Debug\net6.0\TratandoExceçãoTryCatch.exe
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\TratandoExceçãoTryCatch\bin\Debug\net6.0\TratandoExceçãoTryCatch.deps.json
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\TratandoExceçãoTryCatch\bin\Debug\net6.0\TratandoExceçãoTryCatch.runtimeconfig.json
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\TratandoExceçãoTryCatch\bin\Debug\net6.0\TratandoExceçãoTryCatch.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\TratandoExceçãoTryCatch\bin\Debug\net6.0\TratandoExceçãoTryCatch.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\TratandoExceçãoTryCatch\obj\Debug\net6.0\TratandoExceçãoTryCatch.csproj.AssemblyReference.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\TratandoExceçãoTryCatch\obj\Debug\net6.0\TratandoExceçãoTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\TratandoExceçãoTryCatch\obj\Debug\net6.0\TratandoExceçãoTryCatch.AssemblyInfoInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\TratandoExceçãoTryCatch\obj\Debug\net6.0\TratandoExceçãoTryCatch.AssemblyInfo.cs
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\TratandoExceçãoTryCatch\obj\Debug\net6.0\TratandoExceçãoTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\TratandoExceçãoTryCatch\obj\Debug\net6.0\TratandoExceçãoTryCatch.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\TratandoExceçãoTryCatch\obj\Debug\net6.0\refint\TratandoExceçãoTryCatch.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\TratandoExceçãoTryCatch\obj\Debug\net6.0\TratandoExceçãoTryCatch.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\TratandoExceçãoTryCatch\obj\Debug\net6.0\TratandoExceçãoTryCatch.genruntimeconfig.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\TratandoExceçãoTryCatch\obj\Debug\net6.0\ref\TratandoExceçãoTryCatch.dll
