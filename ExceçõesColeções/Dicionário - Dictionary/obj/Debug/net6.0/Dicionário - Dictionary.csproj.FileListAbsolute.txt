@@ -1,0 +1,15 @@
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Dicionário - Dictionary\bin\Debug\net6.0\Dicionário - Dictionary.exe
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Dicionário - Dictionary\bin\Debug\net6.0\Dicionário - Dictionary.deps.json
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Dicionário - Dictionary\bin\Debug\net6.0\Dicionário - Dictionary.runtimeconfig.json
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Dicionário - Dictionary\bin\Debug\net6.0\Dicionário - Dictionary.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Dicionário - Dictionary\bin\Debug\net6.0\Dicionário - Dictionary.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Dicionário - Dictionary\obj\Debug\net6.0\Dicionário - Dictionary.csproj.AssemblyReference.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Dicionário - Dictionary\obj\Debug\net6.0\Dicionário - Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Dicionário - Dictionary\obj\Debug\net6.0\Dicionário - Dictionary.AssemblyInfoInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Dicionário - Dictionary\obj\Debug\net6.0\Dicionário - Dictionary.AssemblyInfo.cs
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Dicionário - Dictionary\obj\Debug\net6.0\Dicionário - Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Dicionário - Dictionary\obj\Debug\net6.0\Dicionário - Dictionary.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Dicionário - Dictionary\obj\Debug\net6.0\refint\Dicionário - Dictionary.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Dicionário - Dictionary\obj\Debug\net6.0\Dicionário - Dictionary.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Dicionário - Dictionary\obj\Debug\net6.0\Dicionário - Dictionary.genruntimeconfig.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Dicionário - Dictionary\obj\Debug\net6.0\ref\Dicionário - Dictionary.dll
