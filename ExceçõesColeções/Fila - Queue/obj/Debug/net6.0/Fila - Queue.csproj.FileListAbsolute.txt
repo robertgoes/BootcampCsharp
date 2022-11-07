@@ -1,0 +1,15 @@
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Fila - Queue\bin\Debug\net6.0\Fila - Queue.exe
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Fila - Queue\bin\Debug\net6.0\Fila - Queue.deps.json
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Fila - Queue\bin\Debug\net6.0\Fila - Queue.runtimeconfig.json
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Fila - Queue\bin\Debug\net6.0\Fila - Queue.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Fila - Queue\bin\Debug\net6.0\Fila - Queue.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Fila - Queue\obj\Debug\net6.0\Fila - Queue.csproj.AssemblyReference.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Fila - Queue\obj\Debug\net6.0\Fila - Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Fila - Queue\obj\Debug\net6.0\Fila - Queue.AssemblyInfoInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Fila - Queue\obj\Debug\net6.0\Fila - Queue.AssemblyInfo.cs
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Fila - Queue\obj\Debug\net6.0\Fila - Queue.csproj.CoreCompileInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Fila - Queue\obj\Debug\net6.0\Fila - Queue.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Fila - Queue\obj\Debug\net6.0\refint\Fila - Queue.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Fila - Queue\obj\Debug\net6.0\Fila - Queue.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Fila - Queue\obj\Debug\net6.0\Fila - Queue.genruntimeconfig.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Fila - Queue\obj\Debug\net6.0\ref\Fila - Queue.dll
