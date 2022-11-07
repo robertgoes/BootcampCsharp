@@ -1,0 +1,15 @@
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Pilha - Stack\bin\Debug\net6.0\Pilha - Stack.exe
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Pilha - Stack\bin\Debug\net6.0\Pilha - Stack.deps.json
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Pilha - Stack\bin\Debug\net6.0\Pilha - Stack.runtimeconfig.json
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Pilha - Stack\bin\Debug\net6.0\Pilha - Stack.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Pilha - Stack\bin\Debug\net6.0\Pilha - Stack.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Pilha - Stack\obj\Debug\net6.0\Pilha - Stack.csproj.AssemblyReference.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Pilha - Stack\obj\Debug\net6.0\Pilha - Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Pilha - Stack\obj\Debug\net6.0\Pilha - Stack.AssemblyInfoInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Pilha - Stack\obj\Debug\net6.0\Pilha - Stack.AssemblyInfo.cs
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Pilha - Stack\obj\Debug\net6.0\Pilha - Stack.csproj.CoreCompileInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Pilha - Stack\obj\Debug\net6.0\Pilha - Stack.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Pilha - Stack\obj\Debug\net6.0\refint\Pilha - Stack.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Pilha - Stack\obj\Debug\net6.0\Pilha - Stack.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Pilha - Stack\obj\Debug\net6.0\Pilha - Stack.genruntimeconfig.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\ExceçõesColeções\Pilha - Stack\obj\Debug\net6.0\ref\Pilha - Stack.dll
