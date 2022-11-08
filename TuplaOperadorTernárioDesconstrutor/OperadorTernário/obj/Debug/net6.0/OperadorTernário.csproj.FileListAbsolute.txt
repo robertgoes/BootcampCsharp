@@ -1,0 +1,15 @@
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\OperadorTernário\obj\Debug\net6.0\OperadorTernário.csproj.AssemblyReference.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\OperadorTernário\obj\Debug\net6.0\OperadorTernário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\OperadorTernário\obj\Debug\net6.0\OperadorTernário.AssemblyInfoInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\OperadorTernário\obj\Debug\net6.0\OperadorTernário.AssemblyInfo.cs
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\OperadorTernário\obj\Debug\net6.0\OperadorTernário.csproj.CoreCompileInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\OperadorTernário\bin\Debug\net6.0\OperadorTernário.exe
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\OperadorTernário\bin\Debug\net6.0\OperadorTernário.deps.json
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\OperadorTernário\bin\Debug\net6.0\OperadorTernário.runtimeconfig.json
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\OperadorTernário\bin\Debug\net6.0\OperadorTernário.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\OperadorTernário\bin\Debug\net6.0\OperadorTernário.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\OperadorTernário\obj\Debug\net6.0\OperadorTernário.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\OperadorTernário\obj\Debug\net6.0\refint\OperadorTernário.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\OperadorTernário\obj\Debug\net6.0\OperadorTernário.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\OperadorTernário\obj\Debug\net6.0\OperadorTernário.genruntimeconfig.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\OperadorTernário\obj\Debug\net6.0\ref\OperadorTernário.dll
