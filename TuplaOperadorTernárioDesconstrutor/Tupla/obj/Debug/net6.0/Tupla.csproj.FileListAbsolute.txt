@@ -1,0 +1,15 @@
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\Tupla\obj\Debug\net6.0\Tupla.csproj.AssemblyReference.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\Tupla\obj\Debug\net6.0\Tupla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\Tupla\obj\Debug\net6.0\Tupla.AssemblyInfoInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\Tupla\obj\Debug\net6.0\Tupla.AssemblyInfo.cs
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\Tupla\obj\Debug\net6.0\Tupla.csproj.CoreCompileInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\Tupla\bin\Debug\net6.0\Tupla.exe
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\Tupla\bin\Debug\net6.0\Tupla.deps.json
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\Tupla\bin\Debug\net6.0\Tupla.runtimeconfig.json
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\Tupla\bin\Debug\net6.0\Tupla.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\Tupla\bin\Debug\net6.0\Tupla.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\Tupla\obj\Debug\net6.0\Tupla.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\Tupla\obj\Debug\net6.0\refint\Tupla.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\Tupla\obj\Debug\net6.0\Tupla.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\Tupla\obj\Debug\net6.0\Tupla.genruntimeconfig.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\TuplaOperadorTernárioDesconstrutor\Tupla\obj\Debug\net6.0\ref\Tupla.dll
