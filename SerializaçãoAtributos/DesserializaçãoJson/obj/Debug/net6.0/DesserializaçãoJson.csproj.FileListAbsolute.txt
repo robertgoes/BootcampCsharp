@@ -1,0 +1,17 @@
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\obj\Debug\net6.0\DesserializaçãoJson.csproj.AssemblyReference.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\obj\Debug\net6.0\DesserializaçãoJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\obj\Debug\net6.0\DesserializaçãoJson.AssemblyInfoInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\obj\Debug\net6.0\DesserializaçãoJson.AssemblyInfo.cs
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\obj\Debug\net6.0\DesserializaçãoJson.csproj.CoreCompileInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\bin\Debug\net6.0\DesserializaçãoJson.exe
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\bin\Debug\net6.0\DesserializaçãoJson.deps.json
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\bin\Debug\net6.0\DesserializaçãoJson.runtimeconfig.json
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\bin\Debug\net6.0\DesserializaçãoJson.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\bin\Debug\net6.0\DesserializaçãoJson.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\obj\Debug\net6.0\DesserializaçãoJson.csproj.CopyComplete
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\obj\Debug\net6.0\DesserializaçãoJson.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\obj\Debug\net6.0\refint\DesserializaçãoJson.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\obj\Debug\net6.0\DesserializaçãoJson.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\obj\Debug\net6.0\DesserializaçãoJson.genruntimeconfig.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\SerializaçãoAtributos\DesserializaçãoJson\obj\Debug\net6.0\ref\DesserializaçãoJson.dll
