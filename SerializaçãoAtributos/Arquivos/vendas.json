@@ -2,11 +2,13 @@
   {
     "Id": 1,
     "Produto": "Marca texto",
-    "Preco": 3.50
+    "Preco": 3.50,
+    "DataVenda": "2022-11-09T13:01:14.7133464-03:00"
   },
   {
     "Id": 2,
     "Produto": "Caderno",
-    "Preco": 35.00
+    "Preco": 35.00,
+    "DataVenda": "2022-11-09T13:01:14.7133464-03:00"
   }
 ]

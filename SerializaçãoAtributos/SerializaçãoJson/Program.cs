@@ -1,8 +1,10 @@
 ﻿using Newtonsoft.Json;
 using SerializaçãoJson.Models;
 
-Venda venda1 = new Venda(1, "Marca texto", 3.50M);
-Venda venda2 = new Venda(2, "Caderno", 35.00M);
+DateTime dataAtual = DateTime.Now;
+
+Venda venda1 = new Venda(1, "Marca texto", 3.50M, dataAtual);
+Venda venda2 = new Venda(2, "Caderno", 35.00M, dataAtual);
 
 List<Venda> listaVendas = new List<Venda>();
 
