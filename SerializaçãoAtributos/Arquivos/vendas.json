@@ -1,5 +1,12 @@
-{
-  "Id": 1,
-  "Produto": "Marca texto",
-  "Preco": 3.50
-}
+[
+  {
+    "Id": 1,
+    "Produto": "Marca texto",
+    "Preco": 3.50
+  },
+  {
+    "Id": 2,
+    "Produto": "Caderno",
+    "Preco": 35.00
+  }
+]
