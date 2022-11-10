@@ -1,0 +1,15 @@
+C:\Users\rober\Estudo C#\BootcampCsharp\MétodoDeExtensão\obj\Debug\net6.0\MétodoDeExtensão.csproj.AssemblyReference.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\MétodoDeExtensão\obj\Debug\net6.0\MétodoDeExtensão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Estudo C#\BootcampCsharp\MétodoDeExtensão\obj\Debug\net6.0\MétodoDeExtensão.AssemblyInfoInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\MétodoDeExtensão\obj\Debug\net6.0\MétodoDeExtensão.AssemblyInfo.cs
+C:\Users\rober\Estudo C#\BootcampCsharp\MétodoDeExtensão\obj\Debug\net6.0\MétodoDeExtensão.csproj.CoreCompileInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\MétodoDeExtensão\bin\Debug\net6.0\MétodoDeExtensão.exe
+C:\Users\rober\Estudo C#\BootcampCsharp\MétodoDeExtensão\bin\Debug\net6.0\MétodoDeExtensão.deps.json
+C:\Users\rober\Estudo C#\BootcampCsharp\MétodoDeExtensão\bin\Debug\net6.0\MétodoDeExtensão.runtimeconfig.json
+C:\Users\rober\Estudo C#\BootcampCsharp\MétodoDeExtensão\bin\Debug\net6.0\MétodoDeExtensão.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\MétodoDeExtensão\bin\Debug\net6.0\MétodoDeExtensão.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\MétodoDeExtensão\obj\Debug\net6.0\MétodoDeExtensão.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\MétodoDeExtensão\obj\Debug\net6.0\refint\MétodoDeExtensão.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\MétodoDeExtensão\obj\Debug\net6.0\MétodoDeExtensão.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\MétodoDeExtensão\obj\Debug\net6.0\MétodoDeExtensão.genruntimeconfig.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\MétodoDeExtensão\obj\Debug\net6.0\ref\MétodoDeExtensão.dll
