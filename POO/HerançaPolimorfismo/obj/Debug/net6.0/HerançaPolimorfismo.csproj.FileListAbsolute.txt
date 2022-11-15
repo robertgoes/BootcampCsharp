@@ -1,0 +1,15 @@
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\HerançaPolimorfismo\obj\Debug\net6.0\HerançaPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\HerançaPolimorfismo\obj\Debug\net6.0\HerançaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\HerançaPolimorfismo\obj\Debug\net6.0\HerançaPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\HerançaPolimorfismo\obj\Debug\net6.0\HerançaPolimorfismo.AssemblyInfo.cs
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\HerançaPolimorfismo\obj\Debug\net6.0\HerançaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\HerançaPolimorfismo\bin\Debug\net6.0\HerançaPolimorfismo.exe
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\HerançaPolimorfismo\bin\Debug\net6.0\HerançaPolimorfismo.deps.json
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\HerançaPolimorfismo\bin\Debug\net6.0\HerançaPolimorfismo.runtimeconfig.json
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\HerançaPolimorfismo\bin\Debug\net6.0\HerançaPolimorfismo.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\HerançaPolimorfismo\bin\Debug\net6.0\HerançaPolimorfismo.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\HerançaPolimorfismo\obj\Debug\net6.0\HerançaPolimorfismo.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\HerançaPolimorfismo\obj\Debug\net6.0\refint\HerançaPolimorfismo.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\HerançaPolimorfismo\obj\Debug\net6.0\HerançaPolimorfismo.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\HerançaPolimorfismo\obj\Debug\net6.0\HerançaPolimorfismo.genruntimeconfig.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\HerançaPolimorfismo\obj\Debug\net6.0\ref\HerançaPolimorfismo.dll
