@@ -1,0 +1,15 @@
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\InterfaceCSharp\bin\Debug\net6.0\InterfaceCSharp.exe
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\InterfaceCSharp\bin\Debug\net6.0\InterfaceCSharp.deps.json
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\InterfaceCSharp\bin\Debug\net6.0\InterfaceCSharp.runtimeconfig.json
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\InterfaceCSharp\bin\Debug\net6.0\InterfaceCSharp.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\InterfaceCSharp\bin\Debug\net6.0\InterfaceCSharp.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\InterfaceCSharp\obj\Debug\net6.0\InterfaceCSharp.csproj.AssemblyReference.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\InterfaceCSharp\obj\Debug\net6.0\InterfaceCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\InterfaceCSharp\obj\Debug\net6.0\InterfaceCSharp.AssemblyInfoInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\InterfaceCSharp\obj\Debug\net6.0\InterfaceCSharp.AssemblyInfo.cs
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\InterfaceCSharp\obj\Debug\net6.0\InterfaceCSharp.csproj.CoreCompileInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\InterfaceCSharp\obj\Debug\net6.0\InterfaceCSharp.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\InterfaceCSharp\obj\Debug\net6.0\refint\InterfaceCSharp.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\InterfaceCSharp\obj\Debug\net6.0\InterfaceCSharp.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\InterfaceCSharp\obj\Debug\net6.0\InterfaceCSharp.genruntimeconfig.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\InterfaceCSharp\obj\Debug\net6.0\ref\InterfaceCSharp.dll
