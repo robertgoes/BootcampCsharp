@@ -1,0 +1,15 @@
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\ConstrutorPorHerança\obj\Debug\net6.0\ConstrutorPorHerança.csproj.AssemblyReference.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\ConstrutorPorHerança\obj\Debug\net6.0\ConstrutorPorHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\ConstrutorPorHerança\obj\Debug\net6.0\ConstrutorPorHerança.AssemblyInfoInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\ConstrutorPorHerança\obj\Debug\net6.0\ConstrutorPorHerança.AssemblyInfo.cs
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\ConstrutorPorHerança\obj\Debug\net6.0\ConstrutorPorHerança.csproj.CoreCompileInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\ConstrutorPorHerança\bin\Debug\net6.0\ConstrutorPorHerança.exe
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\ConstrutorPorHerança\bin\Debug\net6.0\ConstrutorPorHerança.deps.json
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\ConstrutorPorHerança\bin\Debug\net6.0\ConstrutorPorHerança.runtimeconfig.json
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\ConstrutorPorHerança\bin\Debug\net6.0\ConstrutorPorHerança.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\ConstrutorPorHerança\bin\Debug\net6.0\ConstrutorPorHerança.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\ConstrutorPorHerança\obj\Debug\net6.0\ConstrutorPorHerança.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\ConstrutorPorHerança\obj\Debug\net6.0\refint\ConstrutorPorHerança.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\ConstrutorPorHerança\obj\Debug\net6.0\ConstrutorPorHerança.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\ConstrutorPorHerança\obj\Debug\net6.0\ConstrutorPorHerança.genruntimeconfig.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\POO\ConstrutorPorHerança\obj\Debug\net6.0\ref\ConstrutorPorHerança.dll
