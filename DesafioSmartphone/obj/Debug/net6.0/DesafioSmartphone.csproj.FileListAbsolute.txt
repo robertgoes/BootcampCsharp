@@ -1,0 +1,15 @@
+C:\Users\rober\Estudo C#\BootcampCsharp\DesafioSmartphone\obj\Debug\net6.0\DesafioSmartphone.csproj.AssemblyReference.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\DesafioSmartphone\obj\Debug\net6.0\DesafioSmartphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\Estudo C#\BootcampCsharp\DesafioSmartphone\obj\Debug\net6.0\DesafioSmartphone.AssemblyInfoInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\DesafioSmartphone\obj\Debug\net6.0\DesafioSmartphone.AssemblyInfo.cs
+C:\Users\rober\Estudo C#\BootcampCsharp\DesafioSmartphone\obj\Debug\net6.0\DesafioSmartphone.csproj.CoreCompileInputs.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\DesafioSmartphone\bin\Debug\net6.0\DesafioSmartphone.exe
+C:\Users\rober\Estudo C#\BootcampCsharp\DesafioSmartphone\bin\Debug\net6.0\DesafioSmartphone.deps.json
+C:\Users\rober\Estudo C#\BootcampCsharp\DesafioSmartphone\bin\Debug\net6.0\DesafioSmartphone.runtimeconfig.json
+C:\Users\rober\Estudo C#\BootcampCsharp\DesafioSmartphone\bin\Debug\net6.0\DesafioSmartphone.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\DesafioSmartphone\bin\Debug\net6.0\DesafioSmartphone.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\DesafioSmartphone\obj\Debug\net6.0\DesafioSmartphone.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\DesafioSmartphone\obj\Debug\net6.0\refint\DesafioSmartphone.dll
+C:\Users\rober\Estudo C#\BootcampCsharp\DesafioSmartphone\obj\Debug\net6.0\DesafioSmartphone.pdb
+C:\Users\rober\Estudo C#\BootcampCsharp\DesafioSmartphone\obj\Debug\net6.0\DesafioSmartphone.genruntimeconfig.cache
+C:\Users\rober\Estudo C#\BootcampCsharp\DesafioSmartphone\obj\Debug\net6.0\ref\DesafioSmartphone.dll
