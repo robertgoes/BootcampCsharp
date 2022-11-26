@@ -16298,6 +16298,16 @@
   "RootNamespace": "ProjetoMVC",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ProjetoMVC\\Views\\Contato\\Criar.cshtml",
+      "TargetPath": "Views\\Contato\\Criar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ProjetoMVC\\Views\\Contato\\Deletar.cshtml",
+      "TargetPath": "Views\\Contato\\Deletar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ProjetoMVC\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -16305,6 +16315,11 @@
     {
       "FilePath": "c:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ProjetoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ProjetoMVC\\Views\\Contato\\Detalhes.cshtml",
+      "TargetPath": "Views\\Contato\\Detalhes.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16320,6 +16335,11 @@
     {
       "FilePath": "c:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ProjetoMVC\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\rober\\Estudo C#\\BootcampCsharp\\ProjetoMVC\\Views\\Contato\\Editar.cshtml",
+      "TargetPath": "Views\\Contato\\Editar.cshtml",
       "FileKind": "mvc"
     },
     {

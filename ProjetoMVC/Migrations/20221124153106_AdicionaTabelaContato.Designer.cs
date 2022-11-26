@@ -11,7 +11,7 @@ using ProjetoMVC.Context;
 namespace ProjetoMVC.Migrations
 {
     [DbContext(typeof(AgendaContext))]
-    [Migration("20221123141138_AdicionaTabelaContato")]
+    [Migration("20221124153106_AdicionaTabelaContato")]
     partial class AdicionaTabelaContato
     {
         /// <inheritdoc />
@@ -38,7 +38,7 @@ namespace ProjetoMVC.Migrations
                     b.Property<string>("Nome")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Numero")
+                    b.Property<string>("Telefone")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
